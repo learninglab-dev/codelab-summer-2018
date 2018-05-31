@@ -6,7 +6,8 @@ The computer I usually code on is out of commission, so today I'm remembering ho
 
 Things I did:
 1. Started LD_Sandbox branch of this repo
-  * I'm not sure how we plan to use git this summer, but I figure I'll work in this branch until we discuss...
+
+   * I'm not sure how we plan to use git this summer, but I figure I'll work in this branch until we discuss...
 2. Installed Atom and its shell commands
 3. Installed Xcode
 4. Started this .md
