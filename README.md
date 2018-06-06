@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## LL Team Code's Summer Projects
 
 You can use the [editor on GitHub](https://github.com/learninglab-dev/codelab-summer-2018/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
